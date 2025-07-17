@@ -31,4 +31,3 @@ My main editor is VSCode, and I really like the Monokai color scheme.
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kztmrngs&theme=monokai)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kztmrngs&theme=monokai&layout=compact)
-
