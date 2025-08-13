@@ -12,8 +12,8 @@ I'm active on AtCoder — my algorithm rating is Brown, and my heuristic contest
 
 ## Achievements
 
-- AtCoder Algorithm Contest: Brown-rated (with performances reaching Cyan level)
-- AtCoder Heuristic Contest: Green-rated (with performances reaching Cyan level)
+- AtCoder Algorithm Contest: Green-rated (with performances reaching Cyan level)
+- AtCoder Heuristic Contest: Cyan-rated (with performances reaching Yellow level)
 
 ## Interests & Learning
 
