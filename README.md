@@ -1,33 +1,27 @@
-# Hello
+# Hello! I'm Nagisa Kazetomari.
+I'm a Japanese technical college student and programmer. I write HTML, JavaScript, CSS, Python, C, and C++.
 
-I'm a Japanese technical college student and programmer. I write HTML, JavaScript, CSS, Python, C, and C++. I also compete on AtCoder.
-
-## about me
-
+## About Me
 My name is Nagisa Kazetomari.
-I'm a Japanese student at a technical college, majoring in information technology.
+I'm a student at a technical college, majoring in information technology.
 I can write HTML, CSS, JavaScript, Python, C, and C++.
-(C and C++ are still new to me, so I'm just getting started with them.)
-I'm active on AtCoder — my algorithm rating is Brown, and my heuristic contest rating is Green.
-
-## Achievements
-
-- AtCoder Algorithm Contest: Green-rated (with performances reaching Cyan level)
-- AtCoder Heuristic Contest: Cyan-rated (with performances reaching Yellow level)
+(I'm still learning C and C++.)
 
 ## Interests & Learning
-
-I'm currently focusing on learning C and C++,　while also studying Python for AtCoder.
+I'm currently focusing on learning C and C++.
 My goal is to create executable software.
 
-I love mathematics, so I'd like to develop calculation-related software.
+I love mathematics, so I'd also like to try making calculation-related software.
 
-I prefer CRLF as my line ending style,　and I'm against calling software "apps" or "applications".
+I prefer CRLF for line endings.
 
-My main editor is VSCode, and I really like the Monokai color scheme.
+My main editor is VSCode, and I like the Monokai theme.
+
+I'm a strong believer in Semantic Versioning.
+
+I'm a staunch supporter of x86. I won't let ARM become the mainstream for PCs, no matter what.
 
 ## Stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kztmrngs&theme=discord_old_blurple)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kztmrngs&theme=monokai)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kztmrngs&theme=monokai&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kztmrngs&theme=discord_old_blurple&layout=compact)
